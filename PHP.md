@@ -3,7 +3,7 @@
 - https://github.com/domnikl/DesignPatternsPHP
 - https://github.com/vitordesousa/CRUD-PHP
 
-  ### (CodeIgniter)
+> ### (CodeIgniter)
 
 - https://github.com/vitordesousa/Codeigniter-HMVC-Admin
 - https://github.com/nathanmac/Codeigniter-HMVC-Multiple-Applications
@@ -16,22 +16,22 @@
 - https://github.com/jatazoulja/CI_plugins
 - https://github.com/thekillerdev/pagseguro-codeigniter-1
 
-  ### (Workflow)
+> ### (Workflow)
 
 - https://github.com/ferodss/BalnoWorkflow
 - https://github.com/davin-bao/workflow
 
-  ### (Composer)
+> ### (Composer)
 
 - https://github.com/franzliedke/studio
 
-  ### (Wordpress)
+> ### (Wordpress)
 
 - https://roots.io/bedrock/
 - https://github.com/eabay/oow
 - https://github.com/eabay/oow-sample-plugin
 - https://developer.wordpress.org/plugins/the-basics/best-practices/
 
-  ## VERIFY
+## VERIFY
 
 - https://github.com/vitordesousa/CI-Combos
