@@ -28,7 +28,7 @@
 
 - https://github.com/franzliedke/studio
 
-  ##### (Verify)
+  #### (Verify)
 
 - https://github.com/vitordesousa/CI-Combos
 
