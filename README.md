@@ -19,10 +19,6 @@
 - https://github.com/jatazoulja/CI_plugins
 - https://github.com/thekillerdev/pagseguro-codeigniter-1
 
-  ##### (Verify)
-
-- https://github.com/vitordesousa/CI-Combos
-
   ##### (Workflow)
 
 - https://github.com/ferodss/BalnoWorkflow
@@ -32,6 +28,9 @@
 
 - https://github.com/franzliedke/studio
 
+  ##### (Verify)
+
+- https://github.com/vitordesousa/CI-Combos
 
 ## WORDPRESS
 
