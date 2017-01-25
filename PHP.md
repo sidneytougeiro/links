@@ -1,6 +1,4 @@
-#Links
-
-## PHP
+# PHP
 
 - https://github.com/domnikl/DesignPatternsPHP
 - https://github.com/vitordesousa/CRUD-PHP
