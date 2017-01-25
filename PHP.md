@@ -25,13 +25,13 @@
 
 - https://github.com/franzliedke/studio
 
-  ### (Verify)
-
-- https://github.com/vitordesousa/CI-Combos
-
-## WORDPRESS
+  ### (Wordpress)
 
 - https://roots.io/bedrock/
 - https://github.com/eabay/oow
 - https://github.com/eabay/oow-sample-plugin
 - https://developer.wordpress.org/plugins/the-basics/best-practices/
+
+  ## VERIFY
+
+- https://github.com/vitordesousa/CI-Combos
