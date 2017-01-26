@@ -1,7 +1,7 @@
 # Links
 
-> [PHP](https://github.com/sidneytougeiro/links/blob/master/PHP.md)
-> [JS](https://github.com/sidneytougeiro/links/blob/master/JS.md)
+> [PHP](./PHP.md)  
+> [JS](./JS.md)  
 
 #Licence
 
