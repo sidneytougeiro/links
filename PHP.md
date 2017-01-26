@@ -33,5 +33,3 @@
 - https://developer.wordpress.org/plugins/the-basics/best-practices/
 
 ## VERIFY
-
-- https://github.com/vitordesousa/CI-Combos
