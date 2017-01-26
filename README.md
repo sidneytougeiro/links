@@ -1,6 +1,7 @@
 # Links
 
 > [PHP](./PHP.md)  
+> [GOLANG](./GOLANG.md)  
 > [JAVASCRIPT](./JAVASCRIPT.md)  
 
 <br />
