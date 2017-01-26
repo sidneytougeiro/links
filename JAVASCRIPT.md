@@ -1,3 +1,3 @@
-# JS
+# Javascript
 
 > Nothing yet
