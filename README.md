@@ -1,7 +1,7 @@
 # Links
 
 > [PHP](./PHP.md)  
-> [JS](./JS.md)  
+> [JAVASCRIPT](./JAVASCRIPT.md)  
 
 #Licence
 
