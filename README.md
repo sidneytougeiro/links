@@ -5,7 +5,7 @@
 > [JAVASCRIPT](./JAVASCRIPT.md)  
 
 <br />
-#Licence
+#License
 
 MIT License
 
