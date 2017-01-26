@@ -1,9 +1,12 @@
 # PHP
 
-> ### General
+> ### Design Patterns
 
 - https://github.com/domnikl/DesignPatternsPHP
-- https://github.com/vitordesousa/CRUD-PHP
+
+> ### Composer
+
+- https://github.com/franzliedke/studio
 
 > ### CodeIgniter
 
@@ -18,15 +21,6 @@
 - https://github.com/jatazoulja/CI_plugins
 - https://github.com/thekillerdev/pagseguro-codeigniter-1
 
-> ### Workflow
-
-- https://github.com/ferodss/BalnoWorkflow
-- https://github.com/davin-bao/workflow
-
-> ### Composer
-
-- https://github.com/franzliedke/studio
-
 > ### Wordpress
 
 - https://roots.io/bedrock/
@@ -34,4 +28,7 @@
 - https://github.com/eabay/oow-sample-plugin
 - https://developer.wordpress.org/plugins/the-basics/best-practices/
 
-## VERIFY
+> ### Workflow
+
+- https://github.com/ferodss/BalnoWorkflow
+- https://github.com/davin-bao/workflow
