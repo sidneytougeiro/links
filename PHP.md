@@ -33,3 +33,7 @@
 
 - https://github.com/ferodss/BalnoWorkflow
 - https://github.com/davin-bao/workflow
+
+> ### Marketing Automation
+
+- https://www.mautic.org/
