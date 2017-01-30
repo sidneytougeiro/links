@@ -1,6 +1,13 @@
 # PHP
 
 <br />
+
+> ### Awesome-PHP
+> A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+- https://github.com/ziadoz/awesome-php
+
+<br />
 > ### Design Patterns
 
 - https://github.com/domnikl/DesignPatternsPHP
