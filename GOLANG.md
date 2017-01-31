@@ -1,4 +1,4 @@
 # GOLANG
 
 <br />
-> Nothing yet
+- https://github.com/dannyvankooten/awesome-go
