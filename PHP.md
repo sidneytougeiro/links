@@ -35,6 +35,10 @@
 - https://github.com/jatazoulja/CI_plugins
 - https://github.com/thekillerdev/pagseguro-codeigniter-1
 
+> ### Templates
+
+- https://github.com/tijsverkoyen/CssToInlineStyles
+
 > ### Wordpress
 
 - https://roots.io/bedrock/
