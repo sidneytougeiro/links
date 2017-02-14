@@ -39,6 +39,10 @@
 
 - https://github.com/tijsverkoyen/CssToInlineStyles
 
+> ### Parsers
+
+- https://github.com/erusev/parsedown-extra
+
 > ### Wordpress
 
 - https://roots.io/bedrock/
