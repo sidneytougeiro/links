@@ -54,6 +54,10 @@
 - https://github.com/ferodss/BalnoWorkflow
 - https://github.com/davin-bao/workflow
 
+> ### Functional Programming
+
+- https://github.com/lstrojny/functional-php
+
 > ### Marketing Automation
 
 - https://www.mautic.org/
