@@ -39,6 +39,8 @@
 > ### Parsers
 
 - https://github.com/erusev/parsedown-extra
+- https://github.com/jeremeamia/super_closure
+- https://github.com/opis/closure
 
 > ### Wordpress
 
